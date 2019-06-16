@@ -25,10 +25,6 @@ export class AppComponent {
       name: 'one',
       type: 'data'
     },
-    {
-      name: 'one',
-      type: 'data'
-    },
     // {
     //   name: 'one',
     //   type: 'data'
